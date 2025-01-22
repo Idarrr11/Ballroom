@@ -34,6 +34,23 @@ Route::get('/sampaikan', function () {
     return view('sampaikannest');
 });
 
+Route::get('/kegiatan-1', function () {
+    return view('kegiatan1');
+});
+
+Route::get('/kegiatan-2', function () {
+    return view('kegiatan2');
+});
+
+Route::get('/kegiatan-3', function () {
+    return view('kegiatan3');
+});
+
+Route::get('/kegiatan-4', function () {
+    return view('kegiatan4');
+});
+
+
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');

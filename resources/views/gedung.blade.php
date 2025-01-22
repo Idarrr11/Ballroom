@@ -30,7 +30,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="/">Ballroom</a>
+                        <a class="navbar-brand" href="/">Nestagar Hotel</a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -50,7 +50,7 @@
             <div class="follow_container">
                 <div class="col-md-6 col-md-offset-3">
                     <h2 class="top-title"> Ballrom</h2>
-                    <h2 class="white second-title">" Best in the Sukoharjo "</h2>
+                    <h2 class="white second-title">"Sukoharjo's Trusted Venue"</h2>
                     <hr>
                 </div>
             </div>
@@ -61,9 +61,15 @@
         <section id="story" class="description_content">
             <div class="text-content container">
                 <div class="col-md-6">
-                    <h1>Gedung Ballroom</h1>
+                    <h1>Nestagar Ballroom</h1>
                     <br><br><br><br>
-                    <p class="desc-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quod quos iure nemo dolor ducimus exercitationem ipsam obcaecati, aperiam possimus enim non. Ad quo aliquid cum minima corporis distinctio dolorem.Ipsa voluptas dicta dolores. Eos tempore natus laudantium commodi voluptas, earum autem quasi perspiciatis labore reiciendis nostrum odit est voluptates? Eum, consequuntur libero? Natus amet at cupiditate temporibus, eius dolorum!</p>
+                    <p class="desc-text">Gedung ballroom kami dirancang untuk memenuhi berbagai kebutuhan acara Anda, baik formal maupun informal. Dengan kapasitas yang fleksibel, ballroom ini cocok untuk seminar, konferensi, acara perusahaan, hingga perayaan pribadi seperti pernikahan dan ulang tahun.
+
+                        Fasilitas modern seperti pencahayaan yang memadai, pendingin ruangan, dan tata suara berkualitas tinggi memastikan kenyamanan maksimal bagi para tamu. Tata ruang yang elegan dilengkapi dengan perabotan berkualitas, memberikan suasana yang mewah dan profesional.
+                        
+                        Lokasi strategis di Sukoharjo menjadikan ballroom ini pilihan utama bagi siapa saja yang mencari tempat acara yang mudah dijangkau dan representatif. Kami juga menyediakan paket layanan tambahan seperti dekorasi, katering, dan dokumentasi acara untuk melengkapi pengalaman Anda.
+                        
+                        </p>
                 </div>
                 <div class="col-md-6">
                     <div class="img-section">

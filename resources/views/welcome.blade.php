@@ -26,9 +26,12 @@
     <section id="gambar" alt="">
       <div class="container mx-auto text-center text-white h-screen flex items-center">
         <div class="mx-auto w-3/4 md:w-2/4">
-          <h3 class="text-5xl font-bold text-center mb-5">Selamat datang di website Reservasi kami</h3>
-          <p class="text-white mb-5">Yokoso watasinonawa soul society rasenggan gomu gomuno pistol</p>
-          <a href="#portofolio" class="bg-red-500 text-white py-2 px-5 rounded-xl hover:bg-red-800">See All Kegiatan</a>
+          <h3 class="text-5xl font-bold text-center mb-5" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">
+            Selamat Datang di Website E-katalog Nestagar Ballroom
+        </h3>
+        
+          <p class="text-white mb-5" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">"Wujudkan Acara Impian Anda Bersama Nestagar Hotel!"</p>
+          <a href="#portofolio" class="bg-blue-600 text-white py-2 px-5 rounded-xl" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">See All Kegiatan</a>
         </div>
       </div>
     </section>
@@ -36,8 +39,8 @@
     <!-- services -->
     <section id="services" class="bg-gray-800 py-20">
       <div class="w-11/12 md:container mx-auto">
-        <h4 class="text-5xl font-bold text-center mb-5" style="color:white;">Layanan Kami</h4>
-        <p class="text-gray-500 text-center mb-5">Layanan yang kami berikan untuk Masyarakat</p>
+        <h4 class="text-5xl font-bold text-center mb-5" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">Layanan Kami</h4>
+        <p class="text-gray-500 text-center mb-5" style="color: rgb(206, 206, 206); text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">Layanan yang kami berikan untuk Masyarakat</p>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
           <!-- service 1-->
           <div class="flex space-x-5 py-8 px-8 bg-white rounded-xl items-start">
@@ -64,7 +67,7 @@
             <img src="https://placehold.co/100" />
             <div>
               <h4 class="text-2xl font-bold mb-5">Sampaikan Kebutuhanmu</h4>
-              <p class="text-gray-500 mb-5">Segera hubungi kami jika anda ingin mengadakan event di Kampus Politeknik NEST Surakarta !</p>
+              <p class="text-gray-500 mb-5">Segera hubungi kami jika anda ingin mengadakan event di Kampus Politeknik NEST Sukoharjo !</p>
               <a href="/sampaikan" class="hover:text-blue-700 font-bold">Selengkapnya--></a>
             </div>
           </div>
@@ -75,21 +78,21 @@
     <!-- portofolio -->
     <section id="portofolio" class="py-20 bg-white">
       <h3 class="text-5xl font-bold text-center mb-5" style="color: #4a4a4a">Kegiatan</h3>
-      <p class="text-gray-500 mb-5 text-center">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque, iure.</p>
+      <p class="text-gray-500 mb-5 text-center">Sorotan Kegiatan yang Telah Berlalu.</p>
       <div class="grid grid-cols-2 md:grid-cols-4 w-11/12 md:container mx-auto gap-6">
         <!-- portofolio 1-->
         <div class="shadow-xl">
-          <a href="">
-            <img src="https://placehold.co/600x400" class="w-full" />
+          <a href="/kegiatan-1">
+            <img src="assets/img/blog/isikeg1.png" class="w-full" />
             <div class="py-3 px-5">
-              <h4 class="text-center font-bold">Website 1</h4>
+              <h4 class="text-center font-bold"> Badan Pusat Statistik (BPS)</h4>
             </div>
           </a>
         </div>
         <!-- portofolio 2-->
         <div class="shadow-xl">
-          <a href="">
-            <img src="https://placehold.co/600x400" class="w-full" />
+          <a href="/kegiatan-2">
+            <img src="assets/img/blog/isikeg2.png" class="w-full" />
             <div class="py-3 px-5">
               <h4 class="text-center font-bold">Website 2</h4>
             </div>
@@ -97,19 +100,19 @@
         </div>
         <!-- portofolio 3-->
         <div class="shadow-xl">
-          <a href="">
-            <img src="https://placehold.co/600x400" class="w-full" />
+          <a href="/kegiatan-3">
+            <img src="assets/img/hero/keg3.JPG" class="w-full" />
             <div class="py-3 px-5">
-              <h4 class="text-center font-bold">Website 3</h4>
+              <h4 class="text-center font-bold">SERTIJAB HIMA TI</h4>
             </div>
           </a>
         </div>
         <!-- portofolio 4-->
         <div class="shadow-xl">
-          <a href="">
-            <img src="https://placehold.co/600x400" class="w-full" />
+          <a href="/kegiatan-4">
+            <img src="assets/img/hero/haha.png" class="w-full" />
             <div class="py-3 px-5">
-              <h4 class="text-center font-bold">Website 4</h4>
+              <h4 class="text-center font-bold">PKKMB 2024</h4>
             </div>
           </a>
         </div>
@@ -134,7 +137,7 @@
               <a href="" class="hover:text-blue-700"><i class="fa-brands fa-instagram"></i> Instagram</a>
             </li>
             <li>
-              <a href="https://wa.me/628112840526" class="hover:text-blue-700"><i class="fa-brands fa-whatshapp"></i> WhatshApp</a>
+              <a href="https://wa.me/628112840526" class="hover:text-blue-700"><i class="fa-brands fa-whatshapp"></i> WhatsApp</a>
             </li>
           </ul>
         </div>

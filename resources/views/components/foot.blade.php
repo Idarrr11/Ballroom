@@ -1,8 +1,8 @@
 
 <footer class="bg-white dark:bg-gray-900">
     <div class="mx-auto w-full max-w-screen-xl">
-      <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
-        <div>
+      <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4 ">
+        {{-- <div>
             <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4">
@@ -18,32 +18,32 @@
                     <a href="#" class="hover:underline">Blog</a>
                 </li>
             </ul>
-        </div>
+        </div> --}}
         <div>
-            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Help center</h2>
+            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Tentang Kami</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Discord Server</a>
+                    <a href="#services" class="hover:underline">Layanan</a>
                 </li>
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Twitter</a>
+                    <a href="#portofolio" class="hover:underline">Kegiatan</a>
                 </li>
-                <li class="mb-4">
+                {{-- {{-- <li class="mb-4">
                     <a href="#" class="hover:underline">Facebook</a>
-                </li>
+                </li> --}}
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Contact Us</a>
-                </li>
+                    <a href="#about" class="hover:underline">Tentang Kami</a>
+                </li> 
             </ul>
         </div>
         <div>
-            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
+            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Hubungi Kami</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Privacy Policy</a>
+                    <a href="https://wa.me/62895424449876?text=Hi!" class="hover:underline">0895-4244-49876</a>
                 </li>
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">Licensing</a>
+                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andhikamaulana62@gmail.com&su=Halo&body=Hi!%20Apa%20kabar?" class="hover:underline">Info@andhikamaulana62</a>
                 </li>
                 <li class="mb-4">
                     <a href="#" class="hover:underline">Terms &amp; Conditions</a>
@@ -51,12 +51,12 @@
             </ul>
         </div>
         <div>
-            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2>
+            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Alamat Kami</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4">
-                    <a href="#" class="hover:underline">iOS</a>
+                    <a href="https://www.google.co.id/maps/place/Politeknik+Nest/@-7.6230643,110.8140828,15.92z/data=!4m6!3m5!1s0x2e7a3d72cbe53005:0xa4953746f994fd78!8m2!3d-7.6263867!4d110.8171738!16s%2Fg%2F11rcw8px5b?hl=id&entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D" class="hover:underline">Jl. Raya Telukan - Cuplik Km.1, Dkh. Padas Mas Sudimoro Rt 003/010, Kel. Parangjoro, Kec. Grogol ~ Indonesia, Kec. Sukoharjo, Prop, Jawa Tengah 57552</a>
                 </li>
-                <li class="mb-4">
+                {{-- <li class="mb-4">
                     <a href="#" class="hover:underline">Android</a>
                 </li>
                 <li class="mb-4">
@@ -64,15 +64,15 @@
                 </li>
                 <li class="mb-4">
                     <a href="#" class="hover:underline">MacOS</a>
-                </li>
+                </li> --}}
             </ul>
         </div>
     </div>
     <div class="px-4 py-6 bg-gray-100 dark:bg-gray-700 md:flex md:items-center md:justify-between">
-        <span class="text-sm text-gray-500 dark:text-gray-300 sm:text-center">© 2023 <a href="https://flowbite.com/">Flowbite™</a>. All Rights Reserved.
+        <span class="text-sm text-gray-500 dark:text-gray-300 sm:text-center">Copyright © 2024 Politeknik Nest. All Rights Reserved. Owned by Yayasan Nest Bina Karya</a>
         </span>
         <div class="flex mt-4 sm:justify-center md:mt-0 space-x-5 rtl:space-x-reverse">
-            <a href="#" class="text-gray-400 hover:text-gray-900 dark:hover:text-white">
+            <a href="https://web.facebook.com/politekniknest/?_rdc=1&_rdr" class="text-gray-400 hover:text-gray-900 dark:hover:text-white">
                   <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 8 19">
                         <path fill-rule="evenodd" d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z" clip-rule="evenodd"/>
                     </svg>
@@ -96,7 +96,7 @@
                   </svg>
                   <span class="sr-only">GitHub account</span>
               </a>
-              <a href="#" class="text-gray-400 hover:text-gray-900 dark:hover:text-white">
+              <a href="https://nestpoliteknik.com/" class="text-gray-400 hover:text-gray-900 dark:hover:text-white">
                   <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M10 0a10 10 0 1 0 10 10A10.009 10.009 0 0 0 10 0Zm6.613 4.614a8.523 8.523 0 0 1 1.93 5.32 20.094 20.094 0 0 0-5.949-.274c-.059-.149-.122-.292-.184-.441a23.879 23.879 0 0 0-.566-1.239 11.41 11.41 0 0 0 4.769-3.366ZM8 1.707a8.821 8.821 0 0 1 2-.238 8.5 8.5 0 0 1 5.664 2.152 9.608 9.608 0 0 1-4.476 3.087A45.758 45.758 0 0 0 8 1.707ZM1.642 8.262a8.57 8.57 0 0 1 4.73-5.981A53.998 53.998 0 0 1 9.54 7.222a32.078 32.078 0 0 1-7.9 1.04h.002Zm2.01 7.46a8.51 8.51 0 0 1-2.2-5.707v-.262a31.64 31.64 0 0 0 8.777-1.219c.243.477.477.964.692 1.449-.114.032-.227.067-.336.1a13.569 13.569 0 0 0-6.942 5.636l.009.003ZM10 18.556a8.508 8.508 0 0 1-5.243-1.8 11.717 11.717 0 0 1 6.7-5.332.509.509 0 0 1 .055-.02 35.65 35.65 0 0 1 1.819 6.476 8.476 8.476 0 0 1-3.331.676Zm4.772-1.462A37.232 37.232 0 0 0 13.113 11a12.513 12.513 0 0 1 5.321.364 8.56 8.56 0 0 1-3.66 5.73h-.002Z" clip-rule="evenodd"/>
                 </svg>
