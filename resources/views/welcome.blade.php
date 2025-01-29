@@ -9,6 +9,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
         <link rel="stylesheet" href="{{ asset('css/nav.css') }}">
         <script src="{{ asset('js/menu.js') }}"></script>
         <!-- Styles -->
@@ -44,84 +45,91 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
           <!-- service 1-->
           <div class="flex space-x-5 py-8 px-8 bg-white rounded-xl items-start">
-            <img src="https://placehold.co/100" />
+            <i class="fas fa-building text-6xl text-blue-400"></i>
             <div>
               <h4 class="text-2xl font-bold mb-5">Informasi Gedung</h4>
-              <p class="text-gray-500 mb-5">Ketersedian tempat di Kampus Politeknik NEST untuk anda yang ingin mengadakan event</p>
+              <p class="text-gray-500 mb-5">Ketersediaan tempat di Kampus Politeknik NEST untuk anda yang ingin mengadakan event</p>
               <a href="/gedung" class="hover:text-blue-700 font-bold">Selengkapnya--></a>
             </div>
           </div>
-
+    
           <!-- service 2-->
           <div class="flex space-x-5 py-8 px-8 bg-white rounded-xl items-start">
-            <img src="https://placehold.co/100" />
+            <i class="fas fa-hands-helping  text-6xl text-blue-400"></i>
             <div>
               <h4 class="text-2xl font-bold mb-5">Layanan NEST</h4>
-              <p class="text-gray-500 mb-5">Layanan yang kami berikan untuk medukung kegiatan masyarakat untuk menyelenggarakan event</p>
+              <p class="text-gray-500 mb-5">Layanan yang kami berikan untuk mendukung kegiatan masyarakat untuk menyelenggarakan event</p>
               <a href="/layanan" class="hover:text-blue-700 font-bold">Selengkapnya--></a>
             </div>
           </div>
-
+    
           <!-- service 3-->
           <div class="flex space-x-5 py-8 px-8 bg-white rounded-xl items-start">
-            <img src="https://placehold.co/100" />
+            <i class="fas fa-envelope  text-6xl text-blue-400"></i>
             <div>
               <h4 class="text-2xl font-bold mb-5">Sampaikan Kebutuhanmu</h4>
-              <p class="text-gray-500 mb-5">Segera hubungi kami jika anda ingin mengadakan event di Kampus Politeknik NEST Sukoharjo !</p>
+              <p class="text-gray-500 mb-5">Segera hubungi kami jika anda ingin mengadakan event di Kampus Politeknik NEST Sukoharjo!</p>
               <a href="/sampaikan" class="hover:text-blue-700 font-bold">Selengkapnya--></a>
             </div>
           </div>
         </div>
       </div>
     </section>
+    
 
-    <!-- portofolio -->
-    <section id="portofolio" class="py-20 bg-white">
-      <h3 class="text-5xl font-bold text-center mb-5" style="color: #4a4a4a">Kegiatan</h3>
-      <p class="text-gray-500 mb-5 text-center">Sorotan Kegiatan yang Telah Berlalu.</p>
-      <div class="grid grid-cols-2 md:grid-cols-4 w-11/12 md:container mx-auto gap-6">
-        <!-- portofolio 1-->
-        <div class="shadow-xl">
-          <a href="/kegiatan-1">
-            <img src="assets/img/blog/isikeg1.png" class="w-full" />
-            <div class="py-3 px-5">
-              <h4 class="text-center font-bold"> Badan Pusat Statistik (BPS)</h4>
-            </div>
-          </a>
-        </div>
-        <!-- portofolio 2-->
-        <div class="shadow-xl">
-          <a href="/kegiatan-2">
-            <img src="assets/img/blog/isikeg2.png" class="w-full" />
-            <div class="py-3 px-5">
-              <h4 class="text-center font-bold">Website 2</h4>
-            </div>
-          </a>
-        </div>
-        <!-- portofolio 3-->
-        <div class="shadow-xl">
-          <a href="/kegiatan-3">
-            <img src="assets/img/hero/keg3.JPG" class="w-full" />
-            <div class="py-3 px-5">
-              <h4 class="text-center font-bold">SERTIJAB HIMA TI</h4>
-            </div>
-          </a>
-        </div>
-        <!-- portofolio 4-->
-        <div class="shadow-xl">
-          <a href="/kegiatan-4">
-            <img src="assets/img/hero/haha.png" class="w-full" />
-            <div class="py-3 px-5">
-              <h4 class="text-center font-bold">PKKMB 2024</h4>
-            </div>
-          </a>
-        </div>
-      </div>
-    </section>
+   <!-- portofolio -->
+<section id="portofolio" class="py-20 bg-white">
+  <h3 class="text-5xl font-bold text-center mb-5" style="color: #4a4a4a">Kegiatan</h3>
+  <p class="text-gray-500 mb-5 text-center">Sorotan Kegiatan yang Telah Berlalu.</p>
+  <div class="grid grid-cols-2 md:grid-cols-4 w-11/12 md:container mx-auto gap-6">
+
+  <!-- portofolio 1-->
+<div class="shadow-xl rounded-lg overflow-hidden transform hover:scale-105 hover:shadow-2xl transition-all duration-300">
+  <a href="/kegiatan-1">
+    <img src="assets/img/blog/isikeg1.png" class="w-full h-64 object-cover" />
+    <div class="py-3 px-5">
+      <h4 class="text-center font-bold">Badan Pusat Statistik (BPS)</h4>
+    </div>
+  </a>
+</div>
+
+<!-- portofolio 2-->
+<div class="shadow-xl rounded-lg overflow-hidden transform hover:scale-105 hover:shadow-2xl transition-all duration-300">
+  <a href="/kegiatan-2">
+    <img src="assets/img/blog/isikeg2.png" class="w-full h-64 object-cover" />
+    <div class="py-3 px-5">
+      <h4 class="text-center font-bold">Website 2</h4>
+    </div>
+  </a>
+</div>
+
+<!-- portofolio 3-->
+<div class="shadow-xl rounded-lg overflow-hidden transform hover:scale-105 hover:shadow-2xl transition-all duration-300">
+  <a href="/kegiatan-3">
+    <img src="assets/img/hero/keg3.JPG" class="w-full h-64 object-cover" />
+    <div class="py-3 px-5">
+      <h4 class="text-center font-bold">SERTIJAB HIMA TI</h4>
+    </div>
+  </a>
+</div>
+
+<!-- portofolio 4-->
+<div class="shadow-xl rounded-lg overflow-hidden transform hover:scale-105 hover:shadow-2xl transition-all duration-300">
+  <a href="/kegiatan-4">
+    <img src="assets/img/hero/haha.png" class="w-full h-64 object-cover" />
+    <div class="py-3 px-5">
+      <h4 class="text-center font-bold">PKKMB 2024</h4>
+    </div>
+  </a>
+</div>
+
+  </div>
+</section>
+
     <!-- about -->
     <section id="about" class="w-11/12 md:container mx-auto py-20">
       <div class="flex space-x-10 items-start">
-        <img src="https://placehold.co/300" class="w-24 md:w-1/3" />
+        <img src="assets/img/hero/logopolnest.jpeg" class="w-24 md:w-1/3" />
         <div>
           <p class="mb-5">Nestagar Ballroom adalah solusi terbaik untuk menjadikan acara Anda berkesan dengan layanan terbaik dan fasilitas lengkap</p>
           <h3 class="text-5xl font-bold mb-5">Tentang Kampus Ballroom Nestagar</h3>
@@ -129,17 +137,24 @@
           <p class="mb-5 pb-5 border-b border-gray-900">Kenapa Memilih Nestagar Ballroom?
             Lokasi Strategis: Berada di tengah kota Solo, memudahkan akses bagi tamu dari berbagai wilayah.
             Pelayanan Profesional: Staf yang ramah dan profesional siap membantu Anda dari perencanaan hingga akhir acara.</p>
-          <ul class="md:flex md:space-x-5">
-            <li>
-              <a href="" class="hover:text-blue-700"><i class="fa-brands fa-tiktok"></i> Tiktok</a>
-            </li>
-            <li>
-              <a href="" class="hover:text-blue-700"><i class="fa-brands fa-instagram"></i> Instagram</a>
-            </li>
-            <li>
-              <a href="https://wa.me/628112840526" class="hover:text-blue-700"><i class="fa-brands fa-whatshapp"></i> WhatsApp</a>
-            </li>
-          </ul>
+            <ul class="md:flex md:space-x-5">
+              <li>
+                <a href="https://www.tiktok.com" class="hover:text-blue-700" target="_blank">
+                  <i class="fa-brands fa-tiktok text-xl"></i> Tiktok
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com" class="hover:text-blue-700" target="_blank">
+                  <i class="fa-brands fa-instagram text-xl"></i> Instagram
+                </a>
+              </li>
+              <li>
+                <a href="https://wa.me/628112840526" class="hover:text-blue-700" target="_blank">
+                  <i class="fa-brands fa-whatsapp text-xl"></i> WhatsApp
+                </a>
+              </li>
+            </ul>
+            
         </div>
       </div>
     </section>

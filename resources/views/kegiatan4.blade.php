@@ -84,7 +84,7 @@
                 <aside class="single_sidebar_widget popular_post_widget">
                     <h3 class="widget_title">Kegiatan Lainnya</h3>
                     <div class="media post_item">
-                       <img src="assets/img/post/post_1.png" alt="post">
+                     <img src="assets/img/hero/keg2.png" alt="post" width="80" height="80">
                        <div class="media-body">
                           <a href="/kegiatan-2">
                              <h3>MMS SHOW FEST 2024</h3>
@@ -93,7 +93,7 @@
                        </div>
                     </div>
                     <div class="media post_item">
-                       <img src="assets/img/post/post_3.png" alt="post">
+                     <img src="assets/img/hero/keg3.JPG" alt="post" width="80" height="80">
                        <div class="media-body">
                           <a href="/kegiatan-3">
                              <h3>SERTIJAB HIMA TI</h3>
@@ -102,7 +102,7 @@
                        </div>
                     </div>
                     <div class="media post_item">
-                       <img src="assets/img/post/post_4.png" alt="post">
+                     <img src="assets/img/hero/keg1.png" alt="post" width="80" height="80">
                        <div class="media-body">
                         <a href="/kegiatan-1">
                             <h3>Badan Pusat Statistik (BPS)</h3>
