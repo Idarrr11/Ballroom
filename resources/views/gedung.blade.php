@@ -106,7 +106,7 @@
             <div class="service-card flex flex-col justify-between items-center text-center py-12 px-8 bg-white rounded-xl shadow-lg hover:shadow-2xl hover:scale-105 transition-all duration-300">
               <h4 class="text-2xl font-bold mb-5">Wedding Package</h4>
               <p class="text-gray-500 mb-5">25k - 150k / Pax</p>
-              <a href="/layanan" class="hover:text-blue-700 font-bold text-lg">Selengkapnya --></a>
+              <a href="/sampaikan" class="hover:text-blue-700 font-bold text-lg">Selengkapnya --></a>
             </div>
       
             <!-- Service 2 -->
@@ -188,14 +188,9 @@
         <br><br>
         <!-- ============ Footer Section  ============= -->
 
-        <footer class="sub_footer">
-            <div class="container">
-                <div class="col-md-4"><p class="sub-footer-text text-center">&copy; Restaurant 2014, Theme by <a href="https://themewagon.com/">ThemeWagon</a></p></div>
-                <div class="col-md-4"><p class="sub-footer-text text-center">Back to <a href="#top">TOP</a></p>
-                </div>
-                <div class="col-md-4"><p class="sub-footer-text text-center">Built With Care By <a href="#" target="_blank">Us</a></p></div>
-            </div>
-        </footer>
+        <x-foot>
+
+        </x-foot>
 
 
         <script type="text/javascript" src="js/jquery-1.10.2.min.js"> </script>
