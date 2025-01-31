@@ -33,7 +33,7 @@
               <div class="row">
                   <div class="col-xl-12">
                       <div class="hero-cap text-center">
-                          <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">PKKMB 2024 “Pengenalan Kehidupan Kampus Mahasiswa Baru”.</h2>
+                          <h2 style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">PKKMB 2024 <br> “Pengenalan Kehidupan Kampus Mahasiswa Baru”.</h2>
                       </div>
                   </div>
               </div>

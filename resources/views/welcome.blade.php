@@ -27,11 +27,11 @@
     <section id="gambar" alt="">
       <div class="container mx-auto text-center text-white h-screen flex items-center">
         <div class="mx-auto w-3/4 md:w-2/4">
-          <h3 class="text-5xl font-bold text-center mb-5" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">
+          <h3 class="text-5xl font-bold text-center mb-5" style="color: white; text-shadow: 2px 2px 4px rgba(5, 23, 79, 0.7), -2px -2px 4px rgba(5, 23, 79, 0.7);">
             Selamat Datang di Website E-katalog Nestagar Ballroom
         </h3>
         
-          <p class="text-white mb-5" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">"Wujudkan Acara Impian Anda Bersama Nestagar Hotel!"</p>
+          <p class="text-white mb-5" style="color: white; text-shadow: 2px 2px 4px rgba(5, 23, 79, 0.7), -2px -2px 4px rgba(5, 23, 79, 0.7);">"Wujudkan Acara Impian Anda Bersama Nestagar Hotel!"</p>
           <a href="#portofolio" class="bg-blue-600 text-white py-2 px-5 rounded-xl" style="color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7), -2px -2px 4px rgba(0, 0, 0, 0.7);">See All Kegiatan</a>
         </div>
       </div>
@@ -98,7 +98,7 @@
   <a href="/kegiatan-2">
     <img src="assets/img/blog/isikeg2.png" class="w-full h-64 object-cover" />
     <div class="py-3 px-5">
-      <h4 class="text-center font-bold">Website 2</h4>
+      <h4 class="text-center font-bold">MMS SHOW FEST 2024</h4>
     </div>
   </a>
 </div>
@@ -132,7 +132,7 @@
         <img src="assets/img/hero/logopolnest.jpeg" class="w-24 md:w-1/3" />
         <div>
           <p class="mb-5">Nestagar Ballroom adalah solusi terbaik untuk menjadikan acara Anda berkesan dengan layanan terbaik dan fasilitas lengkap</p>
-          <h3 class="text-5xl font-bold mb-5">Tentang Kampus Ballroom Nestagar</h3>
+          <h3 class="text-5xl font-bold mb-5">Tentan Ballroom Nestagar Hotel</h3>
           <p class="mb-5">Nestagar Hotel Solo juga menawarkan Nestagar Ballroom, ruang serbaguna dengan desain modern dan elegan, yang cocok untuk berbagai acara spesial Anda. Ballroom ini merupakan pilihan yang sempurna untuk menyelenggarakan acara, mulai dari pernikahan, seminar, konferensi, hingga acara perusahaan.</p>
           <p class="mb-5 pb-5 border-b border-gray-900">Kenapa Memilih Nestagar Ballroom?
             Lokasi Strategis: Berada di tengah kota Solo, memudahkan akses bagi tamu dari berbagai wilayah.
