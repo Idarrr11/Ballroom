@@ -1,4 +1,5 @@
-<!doctype html>
+<x-app2>
+   <!doctype html>
 <html class="no-js" lang="zxx">
 
 <head>
@@ -40,6 +41,7 @@
           </div>
       </div>
    </div>
+   
    <!-- Hero Area End -->
    <!--================Blog Area =================-->
    <section class="blog_area single-post-area section-padding">
@@ -148,7 +150,7 @@
       </div>
    </section>
    <!--================ Blog Area end =================-->
-   <footer>
+   {{-- <footer>
       <!-- Footer Start-->
       <div class="footer-area footer-bg footer-padding">
           <div class="container">
@@ -252,7 +254,7 @@
           </div>
       </div>
       <!-- Footer End-->
-   </footer>
+   </footer> --}}
    
 <!-- JS here -->
 	
@@ -294,3 +296,4 @@
         
 </body>
 </html>
+</x-app2>

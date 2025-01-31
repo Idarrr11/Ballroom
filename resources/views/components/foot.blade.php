@@ -19,10 +19,10 @@
                 <h2 class="mb-6 text-sm font-semibold text-white uppercase">Hubungi Kami</h2>
                 <ul class="text-gray-300 font-medium">
                     <li class="mb-4">
-                        <a href="https://wa.me/62895424449876?text=Hi!" class="hover:underline">0895-4244-49876</a>
+                        <a href="https://wa.me/628112840526?text=Hi!" class="hover:underline">0811-2840-526</a>
                     </li>
                     <li class="mb-4">
-                        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andhikamaulana62@gmail.com&su=Halo&body=Hi!%20Apa%20kabar?" class="hover:underline">Info@andhikamaulana62</a>
+                        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andhikamaulana62@gmail.com&su=Halo&body=Hi!%20Apa%20kabar?" class="hover:underline">Info@nestagarhotel</a>
                     </li>
                     <li class="mb-4">
                         <a href="#" class="hover:underline">Terms &amp; Conditions</a>

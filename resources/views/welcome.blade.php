@@ -132,7 +132,7 @@
         <img src="assets/img/hero/logopolnest.jpeg" class="w-24 md:w-1/3" />
         <div>
           <p class="mb-5">Nestagar Ballroom adalah solusi terbaik untuk menjadikan acara Anda berkesan dengan layanan terbaik dan fasilitas lengkap</p>
-          <h3 class="text-5xl font-bold mb-5">Tentan Ballroom Nestagar Hotel</h3>
+          <h3 class="text-5xl font-bold mb-5">Tentang Ballroom Nestagar Hotel</h3>
           <p class="mb-5">Nestagar Hotel Solo juga menawarkan Nestagar Ballroom, ruang serbaguna dengan desain modern dan elegan, yang cocok untuk berbagai acara spesial Anda. Ballroom ini merupakan pilihan yang sempurna untuk menyelenggarakan acara, mulai dari pernikahan, seminar, konferensi, hingga acara perusahaan.</p>
           <p class="mb-5 pb-5 border-b border-gray-900">Kenapa Memilih Nestagar Ballroom?
             Lokasi Strategis: Berada di tengah kota Solo, memudahkan akses bagi tamu dari berbagai wilayah.
@@ -140,17 +140,17 @@
             <ul class="md:flex md:space-x-5">
               <li>
                 <a href="https://www.tiktok.com" class="hover:text-blue-700" target="_blank">
-                  <i class="fa-brands fa-tiktok text-xl"></i> Tiktok
+                  <i class=""></i> Tiktok
                 </a>
               </li>
               <li>
                 <a href="https://www.instagram.com" class="hover:text-blue-700" target="_blank">
-                  <i class="fa-brands fa-instagram text-xl"></i> Instagram
+                  <i class=""></i> Instagram
                 </a>
               </li>
               <li>
                 <a href="https://wa.me/628112840526" class="hover:text-blue-700" target="_blank">
-                  <i class="fa-brands fa-whatsapp text-xl"></i> WhatsApp
+                  <i class=""></i> WhatsApp
                 </a>
               </li>
             </ul>
